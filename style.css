@@ -1,0 +1,22 @@
+.button {
+    background-color: tomato; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: times new roman;
+    display: inline-block;
+    font-size: 16px;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+.p{
+    text-align: center;
+    color: blue;
+}
+div{
+    padding-top: 5%;
+    text-align: center;
+}
